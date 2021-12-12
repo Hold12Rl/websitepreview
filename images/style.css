@@ -1,0 +1,21 @@
+*{
+    font-family: 'Noto Sans', sans-serif;
+}
+body{
+    background: url(background.png);
+}
+p{
+    color: #fff;
+    text-decoration-color: #fff;
+    text-align: center;
+}
+h3{
+    color: rgb(255, 230, 230);
+    text-decoration-color: #fff;
+    text-align: center;
+}
+h2{
+    color: rgb(226, 255, 98);
+    text-decoration-color: rgb(226, 255, 98);
+    text-align: center;
+}
